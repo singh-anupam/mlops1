@@ -112,7 +112,7 @@ model.add(MaxPooling2D(pool_size=(2,2)))
 
 
 
-model.summary()
+
 
 # In[17]:
 
